@@ -65,11 +65,11 @@ Implementar modelos de regressão para prever a quantidade produzida de culturas
 
 ### Métricas de Avaliação
 
-| Métrica | Fórmula | Descrição |
-| --- | --- | --- |
-| **MAE** | $\frac{1}{n}\sum\|y_i - \hat{y}_i\|$ | Erro médio absoluto em toneladas |
-| **RMSE** | $\sqrt{\frac{1}{n}\sum(y_i - \hat{y}_i)^2}$ | Penaliza erros maiores |
-| **R²** | $1 - \frac{\sum(y_i - \hat{y}_i)^2}{\sum(y_i - \bar{y})^2}$ | Proporção da variância explicada (0 a 1) |
+| Métrica | Descrição |
+| --- | --- |
+| **MAE** | Erro médio absoluto em toneladas |
+| **RMSE** | Penaliza erros maiores |
+| **R²** | Proporção da variância explicada (0 a 1) |
 
 ---
 
