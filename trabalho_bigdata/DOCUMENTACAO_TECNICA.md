@@ -1,11 +1,3 @@
-Com o **README.md** pronto e o código das estatísticas corrigido, agora precisamos focar na **Documentação do Processo de Dados**, que é o que o Professor Reinaldo Jr. avalia no critério de "Qualidade e Tratamento dos Dados".
-
-Para a **Etapa 1**, a documentação além do README costuma envolver um relatório mais detalhado sobre como os dados foram "limpos" e por que certas escolhas foram feitas.
-
-Aqui está uma estrutura de **Relatório Técnico de Tratamento de Dados** que você pode adicionar ao seu repositório (como um arquivo chamado `DOCUMENTACAO_TECNICA.md` ou uma nova seção no README):
-
----
-
 ### 📄 Documentação Técnica: Tratamento e Normalização (Requisito R1)
 
 #### 1. Identificação da Fonte
